@@ -1,0 +1,25 @@
+.header{
+    background-color: rgb(88, 187, 204);
+    display: flex;
+    justify-content: space-between;
+    font-style: oblique;
+}
+
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: rgb(161, 229, 233);
+}
+
+.origami{
+    font-style: oblique;
+    font-size: 20px;
+}
